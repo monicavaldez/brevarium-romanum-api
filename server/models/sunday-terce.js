@@ -16,6 +16,7 @@ module.exports = function(Sundayterce) {
         },
         alleluia: 'Alleluia',
       },
+      hymn: '',
       psalterium: [
         {
           chapter: '118[33-48]',
