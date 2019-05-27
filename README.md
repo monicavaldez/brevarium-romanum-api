@@ -2,8 +2,6 @@
 
 Reformed by order of the Holy Ecumenical Council of Trent. Published by order of Pope St. Pius V and revised by Clement VIII, Urban VIII, and Leo XIII
 
-Together since the Offices since granted and the Martyology
-
 
 Includes the Ordo Insularum Philippinarum
 
