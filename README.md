@@ -7,9 +7,9 @@ Includes the Ordo Insularum Philippinarum
 
 
 Imprenta de la
-*Hermandad de la Sagrada Eucharistia*
+*[Hermandad de la Sagrada Eucaristía](https://www.facebook.com/HermandadSaE/)*
 y
-*Cofradía de San Juan Bautista*
+*[Cofradía de San Juan Bautista](https://www.facebook.com/cdsjb/)*
 
 
 ## How to run
