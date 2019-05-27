@@ -1,6 +1,6 @@
 {
-  "name": "sunday-terce",
-  "plural": "sunday-terce",
+  "name": "Hour",
+  "plural": "Hours",
   "base": "Model",
   "idInjection": true,
   "options": {
