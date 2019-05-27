@@ -1,7 +1,17 @@
 'use strict';
 
 module.exports = function(Hour) {
-  Hour.getPsalmody = () => {
+  Hour.getMatins = () => {}
+  Hour.remoteMethod('getMatins', {
+    http: {path: '/sunday/matins', verb: 'GET'},
+    returns: {root: true, type: 'Object'},
+  });
+  Hour.getLauds = () => {}
+  Hour.remoteMethod('getLauds', {
+    http: {path: '/sunday/lauds', verb: 'GET'},
+    returns: {root: true, type: 'Object'},
+  });
+  Hour.getTerce = () => {
     return Promise.resolve({
       incipit: {
         paternoster: 'Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.',
@@ -341,9 +351,19 @@ module.exports = function(Hour) {
         paternoster: 'Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.',
       },
     });
-  },
-  Hour.remoteMethod('getPsalmody', {
+  }
+  Hour.remoteMethod('getTerce', {
     http: {path: '/sunday/terce', verb: 'GET'},
+    returns: {root: true, type: 'Object'},
+  });
+  Hour.getSext = () => {}
+  Hour.remoteMethod('getSext', {
+    http: {path: '/sunday/sext', verb: 'GET'},
+    returns: {root: true, type: 'Object'},
+  });
+  Hour.getNone = () => {}
+  Hour.remoteMethod('getNone', {
+    http: {path: '/sunday/none', verb: 'GET'},
     returns: {root: true, type: 'Object'},
   });
 };

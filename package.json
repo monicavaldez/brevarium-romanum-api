@@ -1,5 +1,5 @@
 {
-  "name": "init",
+  "name": "brevarium-romanum",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
@@ -29,5 +29,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "init"
+  "description": "Reformed by order of the Holy Ecumenical Council of Trent. Published by order of Pope St. Pius V and revised by Clement VIII, Urban VIII, and Leo XIII"
 }
