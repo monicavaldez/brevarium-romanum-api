@@ -1693,157 +1693,85 @@ module.exports = function(Hour) {
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '8',
+              la: 'Verúmtamen óculis tuis considerábis: * et retributiónem peccatórum vidébis.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '9',
+              la: 'Quóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '10',
+              la: 'Non accédet ad te malum: * et flagéllum non appropinquábit tabernáculo tuo.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '11',
+              la: 'Quóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '12',
+              la: 'In mánibus portábunt te: * ne forte offéndas ad lápidem pedem tuum.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '13',
+              la: 'Super áspidem, et basilíscum ambulábis: * et conculcábis leónem et dracónem.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '14',
+              la: 'Quóniam in me sperávit, liberábo eum: * prótegam eum, quóniam cognóvit nomen meum.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '15',
+              la: 'Clamábit ad me, et ego exáudiam eum: † cum ipso sum in tribulatióne: * erípiam eum et glorificábo eum.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '16',
+              la: 'Longitúdine diérum replébo eum: * et osténdam illi salutáre meum.',
               en: '',
             },
           ],
         },
         {
-          chapter: '',
+          chapter: '133',
           verses: [
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '1',
+              la: 'Ecce nunc benedícite Dóminum, * omnes servi Dómini:',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '1-2',
+              la: 'Qui statis in domo Dómini, * in átriis domus Dei nostri.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
+              id: '2',
+              la: 'In nóctibus extóllite manus vestras in sancta, * et benedícite Dóminum.',
               en: '',
             },
             {
               desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
+              id: '3',
+              la: 'Benedícat te Dóminus ex Sion, * qui fecit cælum et terram.',
               en: '',
             },
           ],
@@ -1852,84 +1780,30 @@ module.exports = function(Hour) {
       canticle: {
         desc: 'Canticum Nunc dimittis',
         chapter: 'Luc. 2:29-32',
-        antiphon: '',
+        antiphon: 'Salva nos * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace, allelúja.',
         verses: [
           {
             desc: '',
-            id: '',
-            la: '',
+            id: '29',
+            la: 'Nunc dimíttis ✠ servum tuum, Dómine, * secúndum verbum tuum in pace:',
             en: '',
           },
           {
             desc: '',
-            id: '',
-            la: '',
+            id: '30',
+            la: 'Quia vidérunt óculi mei * salutáre tuum,',
             en: '',
           },
           {
             desc: '',
-            id: '',
-            la: '',
+            id: '31',
+            la: 'Quod parásti * ante fáciem ómnium populórum,',
             en: '',
           },
           {
             desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
-            en: '',
-          },
-          {
-            desc: '',
-            id: '',
-            la: '',
+            id: '32',
+            la: 'Lumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.',
             en: '',
           },
         ],
@@ -1954,63 +1828,6 @@ module.exports = function(Hour) {
       },
     });
   }
-  /*
-  *
-Psalmus 90 [2]
-90:1
-90:2
-90:3
-90:4
-90:5
-90:6
-90:7
-90:8 Verúmtamen óculis tuis considerábis: * et retributiónem peccatórum vidébis.
-90:9 Quóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.
-90:10 Non accédet ad te malum: * et flagéllum non appropinquábit tabernáculo tuo.
-90:11 Quóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.
-90:12 In mánibus portábunt te: * ne forte offéndas ad lápidem pedem tuum.
-90:13 Super áspidem, et basilíscum ambulábis: * et conculcábis leónem et dracónem.
-90:14 Quóniam in me sperávit, liberábo eum: * prótegam eum, quóniam cognóvit nomen meum.
-90:15 Clamábit ad me, et ego exáudiam eum: * cum ipso sum in tribulatióne: erípiam eum et glorificábo eum.
-90:16 Longitúdine diérum replébo eum: * et osténdam illi salutáre meum.
-V. Glória Patri, et Fílio, * et Spirítui Sancto.
-R. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
-	Psalm 90 [2]
-90:1 He that dwelleth in the aid of the most High, * shall abide under the protection of the God of Jacob.
-90:2 He shall say to the Lord: Thou art my protector, and my refuge: * my God, in him will I trust.
-90:3 For he hath delivered me from the snare of the hunters: * and from the sharp word.
-90:4 He will overshadow thee with his shoulders: * and under his wings thou shalt trust.
-90:5 His truth shall compass thee with a shield: * thou shalt not be afraid of the terror of the night.
-90:6 Of the arrow that flieth in the day, of the business that walketh about in the dark: * of invasion, or of the noonday devil.
-90:7 A thousand shall fall at thy side, and ten thousand at thy right hand: * but it shall not come nigh thee.
-90:8 But thou shalt consider with thy eyes: * and shalt see the reward of the wicked.
-90:9 Because thou, O Lord, art my hope: * thou hast made the most High thy refuge.
-90:10 There shall no evil come to thee: * nor shall the scourge come near thy dwelling.
-90:11 For he hath given his angels charge over thee; * to keep thee in all thy ways.
-90:12 In their hands they shall bear thee up: * lest thou dash thy foot against a stone.
-90:13 Thou shalt walk upon the asp and the basilisk: * and thou shalt trample under foot the lion and the dragon.
-90:14 Because he hoped in me I will deliver him: * I will protect him because he hath known my name.
-90:15 He shall cry to me, and I will hear him: * I am with him in tribulation, I will deliver him, and I will glorify him.
-90:16 I will fill him with length of days; * and I will shew him my salvation.
-V. Glory be to the Father, and to the Son, * and to the Holy Ghost.
-R. As it was in the beginning, is now, * and ever shall be, world without end. Amen.
-Psalmus 133 [3]
-133:1 Ecce nunc benedícite Dóminum, * omnes servi Dómini:
-133:1 Qui statis in domo Dómini, * in átriis domus Dei nostri.
-133:2 In nóctibus extóllite manus vestras in sancta, * et benedícite Dóminum.
-133:3 Benedícat te Dóminus ex Sion, * qui fecit cælum et terram.
-V. Glória Patri, et Fílio, * et Spirítui Sancto.
-R. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
-
-Ant. Allelúja, allelúja, allelúja.
-	Psalm 133 [3]
-133:1 Behold now bless ye the Lord, * all ye servants of the Lord:
-133:1 Who stand in the house of the Lord, * in the courts of the house of our God.
-133:2 In the nights lift up your hands to the holy places, * and bless ye the Lord.
-133:3 May the Lord out of Sion bless thee, * he that made heaven and earth.
-V. Glory be to the Father, and to the Son, * and to the Holy Ghost.
-R. As it was in the beginning, is now, * and ever shall be, world without end. Amen.
-*/
   Hour.remoteMethod('getCompline', {
     http: {path: '/sunday/compline', verb: 'GET'},
     returns: {root: true, type: 'Object'},
