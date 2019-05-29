@@ -1564,5 +1564,456 @@ module.exports = function(Hour) {
     http: {path: '/sunday/vespers', verb: 'GET'},
     returns: {root: true, type: 'Object'},
   });
+  Hour.getCompline = () => {
+    return Promise.resolve({
+      incipit: {
+        paternoster: 'Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.',
+        avemaria: 'Ave María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui Jesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.',
+        deusAdjutorium: {
+          versicle: 'Deus ✠ in adjutórium meum inténde.',
+          response: 'Dómine, ad adjuvándum me festína',
+        },
+        gloriaPatri: {
+          versicle: 'Glória Patri, et Fílio, * et Spirítui Sancto.',
+          response: 'Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.',
+        },
+        alleluia: 'Alleluia',
+      },
+      hymn: '',
+      psalterium: [
+        {
+          chapter: '4',
+          verses: [
+            {
+              desc: '',
+              id: '1',
+              la: 'Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '2',
+              la: 'Miserére mei, * et exáudi oratiónem meam.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Irascímini, et nolíte peccáre: † quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'A fructu fruménti, vini, et ólei sui * multiplicáti sunt.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '9',
+              la: 'In pace in idípsum * dórmiam, et requiéscam;',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '10',
+              la: 'Quóniam tu, Dómine, singuláriter in spe * constituísti me.',
+              en: '',
+            },
+          ],
+        },
+        {
+          chapter: '90',
+          verses: [
+            {
+              desc: '',
+              id: '1',
+              la: 'Qui hábitat in adjutório Altíssimi, * in protectióne Dei cæli commorábitur.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '2',
+              la: 'Dicet Dómino: Suscéptor meus es tu, et refúgium meum: * Deus meus sperábo in eum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Quóniam ipse liberávit me de láqueo venántium, * et a verbo áspero.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Scápulis suis obumbrábit tibi: * et sub pennis ejus sperábis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Scuto circúmdabit te véritas ejus: * non timébis a timóre noctúrno,',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'A sagítta volánte in die, 💪 a negótio perambulánte in ténebris: * ab incúrsu, et dæmónio meridiáno.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Cadent a látere tuo mille, 💪 et decem míllia a dextris tuis: * ad te autem non appropinquábit.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+          ],
+        },
+        {
+          chapter: '',
+          verses: [
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+          ],
+        },
+      ],
+      canticle: {
+        desc: 'Canticum Nunc dimittis',
+        chapter: 'Luc. 2:29-32',
+        antiphon: '',
+        verses: [
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+          {
+            desc: '',
+            id: '',
+            la: '',
+            en: '',
+          },
+        ],
+      },
+      chapterResponsory: {}, // left intentionally blank
+      precesFeriales: {}, // left intentionally blank
+      oratio: {},
+      conclusio: {
+        domineExaudi: {
+          versicle: 'Dómine, exáudi oratiónem meam.',
+          response: 'Et clamor meus ad te véniat.',
+        },
+        benedicamus: {
+          versicle: 'Benedicámus Dómino.',
+          response: 'Deo grátias.',
+        },
+        fideliumAnime: {
+          versicle: 'Fidélium ánimæ per misericórdiam Dei requiéscant in pace.',
+          response: 'Amen',
+        },
+        paternoster: 'Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.',
+      },
+    });
+  }
+  /*
+  *
+Psalmus 90 [2]
+90:1
+90:2
+90:3
+90:4
+90:5
+90:6
+90:7
+90:8 Verúmtamen óculis tuis considerábis: * et retributiónem peccatórum vidébis.
+90:9 Quóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.
+90:10 Non accédet ad te malum: * et flagéllum non appropinquábit tabernáculo tuo.
+90:11 Quóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.
+90:12 In mánibus portábunt te: * ne forte offéndas ad lápidem pedem tuum.
+90:13 Super áspidem, et basilíscum ambulábis: * et conculcábis leónem et dracónem.
+90:14 Quóniam in me sperávit, liberábo eum: * prótegam eum, quóniam cognóvit nomen meum.
+90:15 Clamábit ad me, et ego exáudiam eum: * cum ipso sum in tribulatióne: erípiam eum et glorificábo eum.
+90:16 Longitúdine diérum replébo eum: * et osténdam illi salutáre meum.
+V. Glória Patri, et Fílio, * et Spirítui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
+	Psalm 90 [2]
+90:1 He that dwelleth in the aid of the most High, * shall abide under the protection of the God of Jacob.
+90:2 He shall say to the Lord: Thou art my protector, and my refuge: * my God, in him will I trust.
+90:3 For he hath delivered me from the snare of the hunters: * and from the sharp word.
+90:4 He will overshadow thee with his shoulders: * and under his wings thou shalt trust.
+90:5 His truth shall compass thee with a shield: * thou shalt not be afraid of the terror of the night.
+90:6 Of the arrow that flieth in the day, of the business that walketh about in the dark: * of invasion, or of the noonday devil.
+90:7 A thousand shall fall at thy side, and ten thousand at thy right hand: * but it shall not come nigh thee.
+90:8 But thou shalt consider with thy eyes: * and shalt see the reward of the wicked.
+90:9 Because thou, O Lord, art my hope: * thou hast made the most High thy refuge.
+90:10 There shall no evil come to thee: * nor shall the scourge come near thy dwelling.
+90:11 For he hath given his angels charge over thee; * to keep thee in all thy ways.
+90:12 In their hands they shall bear thee up: * lest thou dash thy foot against a stone.
+90:13 Thou shalt walk upon the asp and the basilisk: * and thou shalt trample under foot the lion and the dragon.
+90:14 Because he hoped in me I will deliver him: * I will protect him because he hath known my name.
+90:15 He shall cry to me, and I will hear him: * I am with him in tribulation, I will deliver him, and I will glorify him.
+90:16 I will fill him with length of days; * and I will shew him my salvation.
+V. Glory be to the Father, and to the Son, * and to the Holy Ghost.
+R. As it was in the beginning, is now, * and ever shall be, world without end. Amen.
+Psalmus 133 [3]
+133:1 Ecce nunc benedícite Dóminum, * omnes servi Dómini:
+133:1 Qui statis in domo Dómini, * in átriis domus Dei nostri.
+133:2 In nóctibus extóllite manus vestras in sancta, * et benedícite Dóminum.
+133:3 Benedícat te Dóminus ex Sion, * qui fecit cælum et terram.
+V. Glória Patri, et Fílio, * et Spirítui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
+
+Ant. Allelúja, allelúja, allelúja.
+	Psalm 133 [3]
+133:1 Behold now bless ye the Lord, * all ye servants of the Lord:
+133:1 Who stand in the house of the Lord, * in the courts of the house of our God.
+133:2 In the nights lift up your hands to the holy places, * and bless ye the Lord.
+133:3 May the Lord out of Sion bless thee, * he that made heaven and earth.
+V. Glory be to the Father, and to the Son, * and to the Holy Ghost.
+R. As it was in the beginning, is now, * and ever shall be, world without end. Amen.
+*/
+  Hour.remoteMethod('getCompline', {
+    http: {path: '/sunday/compline', verb: 'GET'},
+    returns: {root: true, type: 'Object'},
+  });
 };
 
