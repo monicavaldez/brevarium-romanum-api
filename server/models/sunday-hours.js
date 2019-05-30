@@ -1098,7 +1098,347 @@ module.exports = function(Hour) {
     http: {path: '/sunday/lauds', verb: 'GET'},
     returns: {root: true, type: 'Object'},
   });
-  Hour.getPrime = () => {}
+  Hour.getPrime = () => {
+    return Promise.resolve({
+      incipit: {
+        paternoster: 'Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.',
+        avemaria: 'Ave María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui Jesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.',
+        deusAdjutorium: {
+          versicle: 'Deus ✠ in adjutórium meum inténde.',
+          response: 'Dómine, ad adjuvándum me festína',
+        },
+        gloriaPatri: {
+          versicle: 'Glória Patri, et Fílio, * et Spirítui Sancto.',
+          response: 'Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.',
+        },
+        alleluia: 'Alleluia',
+      },
+      hymn: '',
+      psalterium: [
+        {
+          chapter: '53',
+          verses: [
+            {
+              desc: '',
+              id: '3',
+              la: 'Deus, in nómine tuo salvum me fac: * et in virtúte tua júdica me.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Deus, exáudi oratiónem meam: * áuribus pércipe verba oris mei.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Quóniam aliéni insurrexérunt advérsum me, † et fortes quæsiérunt ánimam meam: * et non proposuérunt Deum ante conspéctum suum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'Ecce enim, Deus ádjuvat me: * et Dóminus suscéptor est ánimæ meæ.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Avérte mala inimícis meis: * et in veritáte tua dispérde illos.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'Voluntárie sacrificábo tibi, * et confitébor nómini tuo, Dómine: quóniam bonum est:',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '9',
+              la: 'Quóniam ex omni tribulatióne eripuísti me: * et super inimícos meos despéxit óculus meus.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '',
+              la: '',
+              en: '',
+            },
+          ],
+        },
+        {
+          chapter: '118(1-16)',
+          verses: [
+            {
+              desc: 'Aleph',
+              id: '1',
+              la: 'Beáti immaculáti in via: * qui ámbulant in lege Dómini.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '2',
+              la: 'Beáti, qui scrutántur testimónia ejus: * in toto corde exquírunt eum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Non enim qui operántur iniquitátem, * in viis ejus ambulavérunt.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Tu mandásti * mandáta tua custodíri nimis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Útinam dirigántur viæ meæ, * ad custodiéndas justificatiónes tuas!',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'Tunc non confúndar, * cum perspéxero in ómnibus mandátis tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Confitébor tibi in directióne cordis: * in eo quod dídici judícia justítiæ tuæ.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'Justificatiónes tuas custódiam: * non me derelínquas usquequáque.',
+              en: '',
+            },
+            {
+              desc: 'Beth',
+              id: '9',
+              la: 'In quo córrigit adolescéntior viam suam? * In custodiéndo sermónes tuos.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '10',
+              la: 'In toto corde meo exquisívi te: * ne repéllas me a mandátis tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '11',
+              la: 'In corde meo abscóndi elóquia tua: * ut non peccem tibi.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '12',
+              la: 'Benedíctus es, Dómine: * doce me justificatiónes tuas.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '13',
+              la: 'In lábiis meis, * pronuntiávi ómnia judícia oris tui.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '14',
+              la: 'In via testimoniórum tuórum delectátus sum, * sicut in ómnibus divítiis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '15',
+              la: 'In mandátis tuis exercébor: * et considerábo vias tuas.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '16',
+              la: 'In justificatiónibus tuis meditábor: * non oblivíscar sermónes tuos.',
+              en: '',
+            },
+          ],
+        },
+        {
+          chapter: '118(17-32)',
+          verses: [
+            {
+              desc: 'Ghimel',
+              id: '17',
+              la: 'Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos:',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '18',
+              la: 'Revéla óculos meos: * et considerábo mirabília de lege tua.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '19',
+              la: 'Íncola ego sum in terra: * non abscóndas a me mandáta tua.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '20',
+              la: 'Concupívit ánima mea desideráre justificatiónes tuas, * in omni témpore.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '21',
+              la: 'Increpásti supérbos: * maledícti qui declínant a mandátis tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '22',
+              la: 'Aufer a me oppróbrium, et contémptum: * quia testimónia tua exquisívi.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '23',
+              la: 'Étenim sedérunt príncipes, † et advérsum me loquebántur: * servus autem tuus exercebátur in justificatiónibus tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '24',
+              la: 'Nam et testimónia tua meditátio mea est: * et consílium meum justificatiónes tuæ.',
+              en: '',
+            },
+            {
+              desc: 'Daleth',
+              id: '25',
+              la: 'Adhǽsit paviménto ánima mea: * vivífica me secúndum verbum tuum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '26',
+              la: 'Vias meas enuntiávi, et exaudísti me: * doce me justificatiónes tuas.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '27',
+              la: 'Viam justificatiónum tuárum ínstrue me: * et exercébor in mirabílibus tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '28',
+              la: 'Dormitávit ánima mea præ tædio: * confírma me in verbis tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '29',
+              la: 'Viam iniquitátis ámove a me: * et de lege tua miserére mei.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '30',
+              la: 'Viam veritátis elégi: * judícia tua non sum oblítus.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '31',
+              la: 'Adhǽsi testimóniis tuis, Dómine: * noli me confúndere.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '32',
+              la: 'Viam mandatórum tuórum cucúrri, * cum dilatásti cor meum.',
+              en: '',
+            },
+          ],
+        },
+      ],
+      antiphon: 'Alleluia * alleluia, alleliua',
+      chapterResponsory: {}, // left intentionally blank
+      precesFeriales: {}, // left intentionally blank
+      conclusio: {
+        domineExaudi: {
+          versicle: 'Dómine, exáudi oratiónem meam.',
+          response: 'Et clamor meus ad te véniat.',
+        },
+        benedicamus: {
+          versicle: 'Benedicámus Dómino.',
+          response: 'Deo grátias.',
+        },
+        fideliumAnime: {
+          versicle: 'Fidélium ánimæ per misericórdiam Dei requiéscant in pace.',
+          response: 'Amen',
+        },
+        paternoster: 'Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.',
+      },
+    });
+  }
   Hour.remoteMethod('getPrime', {
     http: {path: '/sunday/prime', verb: 'GET'},
     returns: {root: true, type: 'Object'},
