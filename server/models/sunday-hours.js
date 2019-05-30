@@ -385,18 +385,6 @@ module.exports = function(Hour) {
               la: 'Hymnus ómnibus sanctis ejus: * fíliis Israël, pópulo appropinquánti sibi.',
               en: '',
             },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '',
-              la: '',
-              en: '',
-            },
           ],
         },
       ],
