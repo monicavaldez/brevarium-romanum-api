@@ -38,5 +38,9 @@
   "Hour": {
     "dataSource": null,
     "public": true
+  },
+  "monday_hours": {
+    "dataSource": null,
+    "public": true
   }
 }
