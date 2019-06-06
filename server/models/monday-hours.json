@@ -1,0 +1,14 @@
+{
+  "name": "monday_hours",
+  "plural": "Hours",
+  "base": "Model",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
