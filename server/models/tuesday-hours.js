@@ -2180,212 +2180,110 @@ module.exports = function(Hour) {
       hymn: '',
       psalterium: [
         {
-          chapter: '114',
+          chapter: '109',
           verses: [
             {
               desc: '',
               id: '1',
-              la: 'Diléxi, quóniam exáudiet Dóminus * vocem oratiónis meæ.',
+              la: 'Dixit Dóminus Dómino meo: * Sede a dextris meis:',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '1-2',
+              la: 'Donec ponam inimícos tuos, * scabéllum pedum tuórum.',
               en: '',
             },
             {
               desc: '',
               id: '2',
-              la: ' Quia inclinávit aurem suam mihi: * et in diébus meis invocábo.',
+              la: 'Virgam virtútis tuæ emíttet Dóminus ex Sion: * domináre in médio inimicórum tuórum.',
               en: '',
             },
             {
               desc: '',
               id: '3',
-              la: 'Circumdedérunt me dolóres mortis: * et perícula inférni invenérunt me.',
+              la: 'Tecum princípium in die virtútis tuæ in splendóribus sanctórum: * ex útero ante lucíferum génui te',
               en: '',
             },
             {
               desc: '',
               id: '4',
-              la: 'Tribulatiónem et dolórem invéni: * et nomen Dómini invocávi.',
+              la: 'Jurávit Dóminus, et non pœnitébit eum: * Tu es sacérdos in ætérnum secúndum órdinem Melchísedech.',
               en: '',
             },
             {
               desc: '',
               id: '5',
-              la: 'O Dómine, líbera ánimam meam: * miséricors Dóminus, et justus, et Deus noster miserétur.',
+              la: 'Dóminus a dextris tuis, * confrégit in die iræ suæ reges.',
               en: '',
             },
             {
               desc: '',
               id: '6',
-              la: 'Custódiens párvulos Dóminus: * humiliátus sum, et liberávit me.',
+              la: 'Judicábit in natiónibus, implébit ruínas: * conquassábit cápita in terra multórum.',
               en: '',
             },
             {
               desc: '',
               id: '7',
-              la: 'Convértere, ánima mea, in réquiem tuam: * quia Dóminus benefécit tibi',
+              la: 'De torrénte in via bibet: * proptérea exaltábit caput.',
               en: '',
             },
-            {
-              desc: '',
-              id: '8',
-              la: 'Quia erípuit ánimam meam de morte: * óculos meos a lácrimis, pedes meos a lapsu.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '9',
-              la: 'Placébo Dómino * in regióne vivórum.',
-              en: '',
-            },
+            
           ],
         },
         {
-          chapter: '115',
+          chapter: '112',
           verses: [
             {
               desc: '',
               id: '1',
-              la: 'Crédidi, propter quod locútus sum: * ego autem humiliátus sum nimis.',
+              la: 'Laudáte, púeri, Dóminum: * laudáte nomen Dómini.',
               en: '',
             },
             {
-              desc: '',
+              desc: 'fit reverentia', // bow head idk what to do put
               id: '2',
-              la: 'Ego dixi in excéssu meo: * Omnis homo mendax.',
+              la: ' Sit nomen Dómini benedíctum, * ex hoc nunc, et usque in sǽculum.',
               en: '',
             },
             {
               desc: '',
               id: '3',
-              la: 'Quid retríbuam Dómino, * pro ómnibus, quæ retríbuit mihi?',
+              la: 'A solis ortu usque ad occásum, * laudábile nomen Dómini.',
               en: '',
             },
             {
               desc: '',
               id: '4',
-              la: 'Cálicem salutáris accípiam: * et nomen Dómini invocábo.',
+              la: 'Excélsus super omnes gentes Dóminus, * et super cælos glória ejus.',
               en: '',
             },
             {
               desc: '',
               id: '5',
-              la: 'Vota mea Dómino reddam coram omni pópulo ejus: * pretiósa in conspéctu Dómini mors sanctórum ejus:',
+              la: 'Quis sicut Dóminus, Deus noster, qui in altis hábitat, * et humília réspicit in cælo et in terra?',
               en: '',
             },
             {
               desc: '',
               id: '7',
-              la: 'O Dómine, quia ego servus tuus: * ego servus tuus, et fílius ancíllæ tuæ.',
+              la: 'Súscitans a terra ínopem, * et de stércore érigens páuperem:',
               en: '',
               rubrics: '',
             },
             {
               desc: '',
               id: '8',
-              la: ' Dirupísti víncula mea: * tibi sacrificábo hóstiam laudis, et nomen Dómini invocábo.',
+              la: 'Ut cóllocet eum cum princípibus, * cum princípibus pópuli ',
               en: '',
               rubrics: '',
             },
             {
               desc: '',
               id: '9',
-              la: 'Vota mea Dómino reddam in conspéctu omnis pópuli ejus: * in átriis domus Dómini, in médio tui, Jerúsalem.',
-              en: '',
-            },
-           
-          ],
-        },
-        {
-          chapter: '119',
-          verses: [
-            {
-              desc: '',
-              id: '1',
-              la: 'Ad Dóminum cum tribulárer clamávi: * et exaudívit me.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '2',
-              la: 'Dómine, líbera ánimam meam a lábiis iníquis, * et a lingua dolósa.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '3',
-              la: 'Quid detur tibi, aut quid apponátur tibi * ad linguam dolósam?',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '4',
-              la: 'Sagíttæ poténtis acútæ, * cum carbónibus desolatóriis.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '5',
-              la: 'Heu mihi, quia incolátus meus prolongátus est: habitávi cum habitántibus Cedar: * multum íncola fuit ánima mea.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '7',
-              la: 'Cum his, qui odérunt pacem, eram pacíficus: * cum loquébar illis, impugnábant me gratis.',
-              en: '',
-            },
-           
-          ],
-        },
-        {
-          chapter: '120',
-          verses: [
-            {
-              desc: '',
-              id: '1',
-              la: ' Levávi óculos meos in montes, * unde véniet auxílium mihi.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '2',
-              la: 'Auxílium meum a Dómino, * qui fecit cælum et terram.',
-              en: '',
-              rubrics: 'fit reverentia',
-            },
-            {
-              desc: '',
-              id: '3',
-              la: 'Non det in commotiónem pedem tuum: * neque dormítet qui custódit te.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '4',
-              la: 'Ecce, non dormitábit neque dórmiet, * qui custódit Israël.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '5',
-              la: 'Dóminus custódit te, Dóminus protéctio tua, * super manum déxteram tuam.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '6',
-              la: 'Per diem sol non uret te: * neque luna per noctem.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '7',
-              la: 'Dóminus custódit te ab omni malo: * custódiat ánimam tuam Dóminus.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '8',
-              la: 'Dóminus custódiat intróitum tuum, et éxitum tuum: * ex hoc nunc, et usque in sǽculum.',
+              la: 'Qui habitáre facit stérilem in domo, * matrem filiórum lætántem.',
               en: '',
             },
            
@@ -2397,13 +2295,13 @@ module.exports = function(Hour) {
             {
               desc: '',
               id: '1',
-              la: 'Lætátus sum in his, quæ dicta sunt mihi: * ‡ In domum Dómini íbimus.',
+              la: 'Lætátus sum in his, quæ dicta sunt mihi: * In domum Dómini íbimus.',
               en: '',
             },
             {
               desc: '',
               id: '2',
-              la: 'Stantes erant pedes nostri, * in átriis tuis, Jerúsalem.',
+              la: 'Stantes erant pedes nostri, * in átriis tuis, Jerúsalem',
               en: '',
             },
             {
@@ -2433,7 +2331,7 @@ module.exports = function(Hour) {
             {
               desc: '',
               id: '7',
-              la: 'Fiat pax in virtúte tua: * et abundántia in túrribus tuis.',
+              la: 'Fiat pax in virtúte tua: * et abundántia in túrribus tuis',
               en: '',
             },
             {
@@ -2445,7 +2343,111 @@ module.exports = function(Hour) {
             {
               desc: '',
               id: '9',
-              la: ' Propter domum Dómini, Dei nostri, * quæsívi bona tibi.',
+              la: 'Propter domum Dómini, Dei nostri, * quæsívi bona tibi.',
+              en: '',
+            },
+            
+           
+          ],
+        },
+        {
+          chapter: '126',
+          verses: [
+            {
+              desc: '',
+              id: '1',
+              la: 'Nisi Dóminus ædificáverit domum, * in vanum laboravérunt qui ædíficant eam.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '1-2',
+              la: 'Nisi Dóminus custodíerit civitátem, * frustra vígilat qui custódit eam.',
+              en: '',
+              rubrics: 'fit reverentia',
+            },
+            {
+              desc: '',
+              id: '2',
+              la: 'Nisi Dóminus custodíerit civitátem, * frustra vígilat qui custódit eam.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Cum déderit diléctis suis somnum: * ecce heréditas Dómini fílii: merces, fructus ventris.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: ' Sicut sagíttæ in manu poténtis: * ita fílii excussórum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Beátus vir, qui implévit desidérium suum ex ipsis: * non confundétur cum loquétur inimícis suis in porta.',
+              en: '',
+            },
+           
+          ],
+        },
+        {
+          chapter: '147',
+          verses: [
+            {
+              desc: '',
+              id: '1',
+              la: 'Lauda, Jerúsalem, Dóminum: * lauda Deum tuum, Sion.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '2',
+              la: 'Quóniam confortávit seras portárum tuárum: * benedíxit fíliis tuis in te.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Qui pósuit fines tuos pacem: * et ádipe fruménti sátiat te.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Qui emíttit elóquium suum terræ: * velóciter currit sermo ejus.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Qui dat nivem sicut lanam: * nébulam sicut cínerem spargit.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'Mittit crystállum suam sicut buccéllas: * ante fáciem frígoris ejus quis sustinébit?',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Emíttet verbum suum, et liquefáciet ea: * flabit spíritus ejus, et fluent aquæ.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'Emíttet verbum suum, et liquefáciet ea: * flabit spíritus ejus, et fluent aquæ.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '9',
+              la: 'Non fecit táliter omni natióni: * et judícia sua non manifestávit eis.',
               en: '',
             },
             
