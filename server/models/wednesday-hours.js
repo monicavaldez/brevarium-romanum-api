@@ -776,377 +776,359 @@ module.exports = function(Hour) {
       hymn: '',
       psalterium: [
         {
-          chapter: '95',
+          chapter: '96',
           verses: [
             {
               desc: '',
               id: '1',
-              la: 'Cantáte Dómino cánticum novum: * cantáte Dómino, omnis terra.',
+              la: 'Dóminus regnávit, exsúltet terra: * ‡ læténtur ínsulæ multæ.',
               en: '',
             },
             {
               desc: '',
               id: '2',
-              la: 'Cantáte Dómino, et benedícite nómini ejus: * annuntiáte de die in diem salutáre ejus.',
+              la: 'Nubes, et calígo in circúitu ejus: * justítia, et judícium corréctio sedis ejus.',
               en: '',
             },
             {
               desc: '',
               id: '3',
-              la: 'Annuntiáte inter gentes glóriam ejus, * in ómnibus pópulis mirabília ejus.',
+              la: 'Ignis ante ípsum præcédet, * et inflammábit in circúitu inimícos ejus.',
               en: '',
             },
             {
               desc: '',
               id: '4',
-              la: 'Quóniam magnus Dóminus, et laudábilis nimis: * terríbilis est super omnes deos.',
+              la: 'Illuxérunt fúlgura ejus orbi terræ: * vidit, et commóta est terra.',
               en: '',
             },
             {
               desc: '',
               id: '5',
-              la: 'Quóniam omnes dii géntium dæmónia: * Dóminus autem cælos fecit.',
+              la: 'Montes, sicut cera fluxérunt a fácie Dómini: * a fácie Dómini omnis terra.',
               en: '',
             },
             {
               desc: '',
               id: '6',
-              la: 'Conféssio, et pulchritúdo in conspéctu ejus: * sanctimónia et magnificéntia in sanctificatióne ejus.',
+              la: 'Annuntiavérunt cæli justítiam ejus: * et vidérunt omnes pópuli glóriam ejus.',
               en: '',
             },
             {
               desc: '',
               id: '7',
-              la: 'Afférte Dómino, pátriæ géntium, afférte Dómino glóriam et honórem: * afférte Dómino glóriam nómini ejus.',
+              la: 'Confundántur omnes, qui adórant sculptília: * et qui gloriántur in simulácris suis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7-2',
+              la: 'Adoráte eum, omnes Ángeli ejus: * audívit, et lætáta est Sion.',
               en: '',
             },
             {
               desc: '',
               id: '8',
-              la: 'Tóllite hóstias, et introíte in átria ejus: * adoráte Dóminum in átrio sancto ejus.',
+              la: 'Et exsultavérunt fíliæ Judæ, * propter judícia tua, Dómine:',
               en: '',
             },
             {
               desc: '',
               id: '9',
-              la: 'Commoveátur a fácie ejus univérsa terra: * dícite in géntibus quia Dóminus regnávit.',
+              la: 'Quóniam tu Dóminus Altíssimus super omnem terram: * nimis exaltátus es super omnes deos.',
               en: '',
             },
             {
               desc: '',
               id: '10',
-              la: 'Étenim corréxit orbem terræ qui non commovébitur: * judicábit pópulos in æquitáte.',
+              la: 'Qui dilígitis Dóminum, odíte malum: * custódit Dóminus ánimas sanctórum suórum, de manu ',
               en: '',
             },
             {
               desc: '',
               id: '11',
-              la: 'Læténtur cæli, et exsúltet terra: commoveátur mare, et plenitúdo ejus: * gaudébunt campi, et ómnia quæ in eis sunt.',
+              la: 'Lux orta est justo, * et rectis corde lætítia.',
               en: '',
             },
             {
               desc: '',
               id: '12',
-              la: 'Tunc exsultábunt ómnia ligna silvárum a fácie Dómini, quia venit: * quóniam venit judicáre terram.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '13',
-              la: 'Judicábit orbem terræ in æquitáte, * et pópulos in veritáte sua.',
+              la: 'Lætámini, justi, in Dómino: * et confitémini memóriæ sanctificatiónis ejus',
               en: '',
             },
           ],
         },
         {
-          chapter: '42',
+          chapter: '64',
           verses: [
             {
               desc: '',
-              id: '1',
-              la: 'Júdica me, Deus, et discérne causam meam de gente non sancta, * ab hómine iníquo, et dolóso érue me.',
-              en: '',
-            },
-            {
-              desc: '',
               id: '2',
-              la: 'Quia tu es, Deus, fortitúdo mea: * quare me repulísti? et quare tristis incédo, dum afflígit me inimícus?',
+              la: 'Te decet hymnus, Deus, in Sion: * ‡ et tibi reddétur votum in Jerúsalem.',
               en: '',
             },
             {
               desc: '',
               id: '3',
-              la: 'Emítte lucem tuam et veritátem tuam: * ipsa me deduxérunt, et adduxérunt in montem sanctum tuum, et in tabernácula tua.',
+              la: 'Exáudi oratiónem meam: * ad te omnis caro véniet.',
               en: '',
             },
             {
               desc: '',
               id: '4',
-              la: 'Et introíbo ad altáre Dei: * ad Deum, qui lætíficat juventútem meam.',
+              la: 'Verba iniquórum prævaluérunt super nos: * et impietátibus nostris tu propitiáberis.',
               en: '',
             },
             {
               desc: '',
               id: '5',
-              la: 'Confitébor tibi in cíthara, Deus, Deus meus: * quare tristis es, ánima mea? et quare contúrbas me?',
+              la: 'Beátus, quem elegísti, et assumpsísti: * inhabitábit in átriis tuis.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5-2',
+              la: 'Replébimur in bonis domus tuæ: * sanctum est templum tuum, mirábile in æquitáte.',
               en: '',
             },
             {
               desc: '',
               id: '6',
-              la: 'Spera in Deo, quóniam adhuc confitébor illi: * salutáre vultus mei, et Deus meus.',
-              en: '',
-            },
-            
-          ],
-        },
-        {
-          chapter: '66',
-          verses: [
-            {
-              desc: '',
-              id: '2',
-              la: 'Deus, misereátur nostri, et benedícat nobis: * illúminet vultum suum super nos, et misereátur nostri.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '3',
-              la: 'Ut cognoscámus in terra viam tuam, * in ómnibus géntibus salutáre tuum.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '4',
-              la: 'Confiteántur tibi pópuli, Deus: * confiteántur tibi pópuli omnes.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '5',
-              la: 'Læténtur et exsúltent gentes: * quóniam júdicas pópulos in æquitáte, et gentes in terra dírigis.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '6',
-              la: 'Confiteántur tibi pópuli, Deus, confiteántur tibi pópuli omnes: * terra dedit fructum suum.',
+              la: 'Exáudi nos, Deus, salutáris noster, * spes ómnium fínium terræ, et in mari longe.',
               en: '',
             },
             {
               desc: '',
               id: '7',
-              la: 'Benedícat nos Deus, Deus noster, benedícat nos Deus: * et métuant eum omnes fines terræ.',
-              en: '',
-            },
-           
-          ],
-        },
-        {
-          desc: 'Canticum Tobiæ',
-          chapter: 'Tob. 13:1-11',
-          verses: [
-            {
-              desc: '',
-              id: '1',
-              la: 'Magnus es, Dómine, in ætérnum, * et in ómnia sǽcula regnum tuum:',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '2',
-              la: 'Quóniam tu flagéllas, et salvas: dedúcis ad ínferos, et redúcis: * et non est qui effúgiat manum tuam.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '3',
-              la: 'Confitémini Dómino, fílii Israël, * et in conspéctu géntium laudáte eum:',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '4',
-              la: 'Quóniam ídeo dispérsit vos inter gentes, quæ ignórant eum, * ut vos enarrétis mirabília ejus,',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '5',
-              la: 'Et faciátis scire eos, * quia non est álius Deus omnípotens præter eum.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '6',
-              la: 'Ipse castigávit nos propter iniquitátes nostras: * et ipse salvábit nos propter misericórdiam suam.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '7',
-              la: 'Aspícite ergo quæ fecit nobíscum, et cum timóre et tremóre confitémini illi: * Regémque sæculórum exaltáte in opéribus vestris.',
+              la: 'Prǽparans montes in virtúte tua, accínctus poténtia: * qui contúrbas profúndum maris sonum flúctuum ejus.',
               en: '',
             },
             {
               desc: '',
               id: '8',
-              la: 'Ego autem in terra captivitátis meæ confitébor illi: * quóniam osténdit majestátem suam in gentem peccatrícem.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '9',
-              la: 'Convertímini ítaque, peccatóres, et fácite justítiam coram Deo, * credéntes quod fáciat vobíscum misericórdiam suam:',
+              la: 'Turbabúntur gentes, et timébunt qui hábitant términos a signis tuis: * éxitus matutíni, et véspere delectábis.',
               en: '',
             },
             {
               desc: '',
               id: '10',
-              la: 'Ego autem, et ánima mea * in eo lætábimur.',
+              la: 'Visitásti terram, et inebriásti eam: * multiplicásti locupletáre eam.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '10-2',
+              la: 'Flumen Dei replétum est aquis, parásti cibum illórum: * quóniam ita est præparátio ejus.',
               en: '',
             },
             {
               desc: '',
               id: '11',
-              la: 'Benedícite Dóminum, omnes elécti ejus: * ágite dies lætítiæ, et confitémini illi.',
-              en: '',
-            },
-            
-            
-          ],
-        },
-        {
-          chapter: '134',
-          verses: [
-            {
-              desc: '',
-              id: '1',
-              la: 'Laudáte nomen Dómini, * laudáte, servi, Dóminum.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '2',
-              la: 'Qui statis in domo Dómini, * in átriis domus Dei nostri.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '3',
-              la: 'Laudáte Dóminum, quia bonus Dóminus: * psállite nómini ejus, quóniam suáve.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '4',
-              la: 'Quóniam Jacob elégit sibi Dóminus, * Israël in possessiónem sibi.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '5',
-              la: 'Quia ego cognóvi quod magnus est Dóminus, * et Deus noster præ ómnibus diis.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '6',
-              la: 'Omnia quæcúmque vóluit, Dóminus fecit in cælo, et in terra, * in mari, et in ómnibus abýssis.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '7',
-              la: 'Edúcens nubes ab extrémo terræ: * fúlgura in plúviam fecit.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '8',
-              la: 'Qui prodúcit ventos de thesáuris suis: * qui percússit primogénita Ægýpti ab hómine usque ad pecus.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '9',
-              la: 'Et misit signa, et prodígia in médio tui, Ægýpte: * in Pharaónem, et in omnes servos ejus.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '10',
-              la: 'Qui percússit gentes multas: * et occídit reges fortes:',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '11',
-              la: 'Sehon, regem Amorrhæórum, et Og, regem Basan, * et ómnia regna Chánaan.',
+              la: 'Rivos ejus inébria, multíplica genímina ejus: * in stillicídiis ejus lætábitur gérminans.',
               en: '',
             },
             {
               desc: '',
               id: '12',
-              la: 'Et dedit terram eórum hereditátem, * hereditátem Israël, pópulo suo.',
+              la: 'Benedíces corónæ anni benignitátis tuæ: * et campi tui replebúntur ubertáte.',
               en: '',
             },
             {
               desc: '',
               id: '13',
-              la: 'Dómine, nomen tuum in ætérnum: * Dómine, memoriále tuum in generatiónem et generatiónem.',
+              la: 'Pinguéscent speciósa desérti: * et exsultatióne colles accingéntur.',
               en: '',
             },
             {
               desc: '',
               id: '14',
-              la: 'Quia judicábit Dóminus pópulum suum: * et in servis suis deprecábitur.',
+              la: 'Indúti sunt aríetes óvium, et valles abundábunt fruménto: * clamábunt, étenim hymnum dicent.',
+              en: '',
+            },
+
+            
+          ],
+        },
+        {
+          chapter: '100',
+          verses: [
+            {
+              desc: '',
+              id: '1',
+              la: 'Indúti sunt aríetes óvium, et valles abundábunt fruménto: * clamábunt, étenim hymnum dicent.',
               en: '',
             },
             {
               desc: '',
+              id: '2',
+              la: 'Indúti sunt aríetes óvium, et valles abundábunt fruménto: * clamábunt, étenim hymnum dicent.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '2-2',
+              la: 'Perambulábam in innocéntia cordis mei, * in médio domus meæ.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Non proponébam ante óculos meos rem injústam: * faciéntes prævaricatiónes odívi.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Non adhǽsit mihi cor pravum: * declinántem a me malígnum non cognoscébam.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Detrahéntem secréto próximo suo, * hunc persequébar.',
+              en: '',
+            },
+
+            {
+              desc: '',
+              id: '5-2',
+              la: 'Supérbo óculo, et insatiábili corde, * cum hoc non edébam.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'Óculi mei ad fidéles terræ ut sédeant mecum: * ámbulans in via immaculáta, hic mihi ministrábat.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Non habitábit in médio domus meæ qui facit supérbiam: * qui lóquitur iníqua, non diréxit in conspéctu oculórum meórum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'In matutíno interficiébam omnes peccatóres terræ: * ut dispérderem de civitáte Dómini omnes operántes iniquitátem.',
+              en: '',
+            },
+
+           
+          ],
+        },
+        {
+          desc: 'Canticum Judith',
+          chapter: 'Judith 16:15-22',
+          verses: [
+            {
+              desc: '',
               id: '15',
-              la: 'Simulácra géntium argéntum, et aurum, * ópera mánuum hóminum.',
+              la: 'Hymnum cantémus Dómino, * hymnum novum cantémus Deo nostro.',
               en: '',
             },
             {
               desc: '',
               id: '16',
-              la: 'Os habent, et non loquéntur: * óculos habent, et non vidébunt.',
+              la: ' Adonái, Dómine, magnus es tu, et præclárus in virtúte tua, * et quem superáre nemo potest.',
               en: '',
             },
             {
               desc: '',
               id: '17',
-              la: 'Aures habent, et non áudient: * neque enim est spíritus in ore ipsórum.',
+              la: 'Tibi sérviat omnis creatúra tua: * quia dixísti, et facta sunt:',
               en: '',
             },
             {
               desc: '',
               id: '18',
-              la: 'Símiles illis fiant qui fáciunt ea: * et omnes qui confídunt in eis.',
+              la: 'Misísti spíritum tuum, et creáta sunt, * et non est qui resístat voci tuæ.',
               en: '',
             },
             {
               desc: '',
               id: '19',
-              la: 'Domus Israël, benedícite Dómino: * domus Aaron, benedícite Dómino.',
+              la: 'Montes a fundaméntis movebúntur cum aquis: * petræ, sicut cera, liquéscent ante fáciem tuam.',
               en: '',
             },
             {
               desc: '',
               id: '20',
-              la: 'Domus Levi, benedícite Dómino: * qui timétis Dóminum, benedícite Dómino.',
+              la: 'Qui autem timent te, * magni erunt apud te per ómnia.',
               en: '',
             },
             {
               desc: '',
               id: '21',
-              la: 'Benedíctus Dóminus ex Sion, * qui hábitat in Jerúsalem.',
+              la: 'Væ genti insurgénti super genus meum: Dóminus enim omnípotens vindicábit in eis, * in die judícii visitábit illos.',
               en: '',
             },
-
-           
+            {
+              desc: '',
+              id: '22',
+              la: 'Dabit enim ignem, et vermes in carnes eórum, * ut urántur, et séntiant usque in sempitérnum.',
+              en: '',
+            },
+            
+          ],
+        },
+        {
+          chapter: '145',
+          verses: [
+            {
+              desc: '',
+              id: '2',
+              la: 'Lauda, ánima mea, Dóminum, laudábo Dóminum in vita mea: * psallam Deo meo quámdiu fúero.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '3',
+              la: 'Nolíte confídere in princípibus: * in fíliis hóminum, in quibus non est salus.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Exíbit spíritus ejus, et revertétur in terram suam: * in illa die períbunt omnes cogitatiónes eórum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Beátus, cujus Deus Jacob adjútor ejus, spes ejus in Dómino, Deo ipsíus: * qui fecit cælum et terram, mare, et ómnia, quæ in eis sunt.',
+              en: '',
+            },
+           {
+              desc: '',
+              id: '7',
+              la: 'Qui custódit veritátem in sǽculum, facit judícium injúriam patiéntibus: * dat escam esuriéntibus.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7-2',
+              la: 'Dóminus solvit compedítos: * Dóminus illúminat cæcos.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'Dóminus érigit elísos, * Dóminus díligit justos.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '9',
+              la: 'Dóminus custódit ádvenas, pupíllum et víduam suscípiet: * et vias peccatórum dispérdet.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '10',
+              la: 'Regnábit Dóminus in sǽcula, Deus tuus, Sion, * in generatiónem et generatiónem.',
+              en: '',
+            },
             
             
             
@@ -1277,104 +1259,136 @@ module.exports = function(Hour) {
       hymn: '',
       psalterium: [
         {
-          chapter: '24(1-7)',
+          chapter: '25',
           verses: [
             {
               desc: '',
               id: '1',
-              la: 'Ad te, Dómine, levávi ánimam meam: * Deus meus, in te confído, non erubéscam.',
+              la: 'Júdica me, Dómine, quóniam ego in innocéntia mea ingréssus sum: * et in Dómino sperans non infirmábor.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '2',
+              la: 'Proba me, Dómine, et tenta me: * ure renes meos et cor meum.',
               en: '',
             },
             {
               desc: '',
               id: '3',
-              la: 'Neque irrídeant me inimíci mei: * étenim univérsi, qui sústinent te, non confundéntur.',
+              la: 'Quóniam misericórdia tua ante óculos meos est: * et complácui in veritáte tua.',
               en: '',
             },
             {
               desc: '',
               id: '4',
-              la: 'Confundántur omnes iníqua agéntes * supervácue.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '4-2',
-              la: 'Vias tuas, Dómine, demónstra mihi: * et sémitas tuas édoce me.',
+              la: 'Non sedi cum concílio vanitátis: * et cum iníqua geréntibus non introíbo.',
               en: '',
             },
             {
               desc: '',
               id: '5',
-              la: 'Dírige me in veritáte tua, et doce me: * quia tu es, Deus, salvátor meus, et te sustínui tota die.',
+              la: 'Odívi ecclésiam malignántium: * et cum ímpiis non sedébo.',
               en: '',
             },
             {
               desc: '',
               id: '6',
-              la: 'Reminíscere miseratiónum tuárum, Dómine, * et misericordiárum tuárum, quæ a sǽculo sunt.',
+              la: 'Lavábo inter innocéntes manus meas: * et circúmdabo altáre tuum, Dómine:',
               en: '',
             },
             {
               desc: '',
               id: '7',
-              la: 'Delícta juventútis meæ, * et ignorántias meas ne memíneris.',
+              la: 'Ut áudiam vocem laudis, * et enárrem univérsa mirabília tua.',
               en: '',
             },
-            {
-              desc: '',
-              id: '7-2',
-              la: 'Secúndum misericórdiam tuam meménto mei tu: * propter bonitátem tuam, Dómine.',
-              en: '',
-            },
-            
-            
-            
-          ],
-        },
-        {
-          chapter: '24(8-14)',
-          verses: [
             {
               desc: '',
               id: '8',
-              la: 'Dulcis et rectus Dóminus: * propter hoc legem dabit delinquéntibus in via.',
+              la: 'Dómine, diléxi decórem domus tuæ, * et locum habitatiónis glóriæ tuæ.',
               en: '',
             },
             {
               desc: '',
               id: '9',
-              la: 'Díriget mansuétos in judício: * docébit mites vias suas.',
+              la: 'Ne perdas cum ímpiis, Deus, ánimam meam, * et cum viris sánguinum vitam meam:',
+              en: '',
+            }, {
+              desc: '',
+              id: '10',
+              la: 'In quorum mánibus iniquitátes sunt: * déxtera eórum repléta est munéribus.',
+              en: '',
+            }, {
+              desc: '',
+              id: '11',
+              la: 'Ego autem in innocéntia mea ingréssus sum: * rédime me, et miserére mei',
+              en: '',
+            }, {
+              desc: '',
+              id: '12',
+              la: 'Pes meus stetit in dirécto: * in ecclésiis benedícam te, Dómine.',
+              en: '',
+            },
+            
+            
+            
+          ],
+        },
+        {
+          chapter: '51',
+          verses: [
+            {
+              desc: '',
+              id: '3',
+              la: 'Quid gloriáris in malítia, * qui potens es in iniquitáte?',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '4',
+              la: 'Tota die injustítiam cogitávit lingua tua: * sicut novácula acúta fecísti dolum.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '5',
+              la: 'Dilexísti malítiam super benignitátem: * iniquitátem magis quam loqui æquitátem.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '6',
+              la: 'Dilexísti ómnia verba præcipitatiónis, * lingua dolósa.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '7',
+              la: 'Proptérea Deus déstruet te in finem, * evéllet te, et emigrábit te de tabernáculo tuo: et radícem tuam de terra vivéntium.',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '8',
+              la: 'Vidébunt justi, et timébunt, et super eum ridébunt, et dicent: * Ecce homo, qui non pósuit Deum adjutórem suum:',
+              en: '',
+            },
+            {
+              desc: '',
+              id: '9',
+              la: 'Sed sperávit in multitúdine divitiárum suárum: * et præváluit in vanitáte sua.',
               en: '',
             },
             {
               desc: '',
               id: '10',
-              la: 'Univérsæ viæ Dómini, misericórdia et véritas, * requiréntibus testaméntum ejus et testimónia ejus.',
+              la: 'Ego autem, sicut olíva fructífera in domo Dei, * sperávi in misericórdia Dei in ætérnum: et in sǽculum sǽculi.',
               en: '',
-            },
-            {
+            },{
               desc: '',
               id: '11',
-              la: 'Propter nomen tuum, Dómine, propitiáberis peccáto meo: * multum est enim.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '12',
-              la: 'Quis est homo qui timet Dóminum? * legem státuit ei in via, quam elégit.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '13',
-              la: 'Ánima ejus in bonis demorábitur: * et semen ejus hereditábit terram.',
-              en: '',
-            },
-            {
-              desc: '',
-              id: '14',
-              la: 'Firmaméntum est Dóminus timéntibus eum: * et testaméntum ipsíus ut manifestétur illis.',
+              la: 'Confitébor tibi in sǽculum, quia fecísti: * et exspectábo nomen tuum, quóniam bonum est in conspéctu sanctórum tuórum.',
               en: '',
             },
             
@@ -1382,54 +1396,54 @@ module.exports = function(Hour) {
           ],
         },
         {
-          chapter: '24(15-22)',
+          chapter: '52',
           verses: [
             {
               desc: 'Ghimel',
-              id: '15',
-              la: 'Óculi mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.',
+              id: '1',
+              la: 'Dixit insípiens in corde suo: * Non est Deus.',
               en: '',
             },
             {
               desc: '',
-              id: '16',
-              la: 'Réspice in me, et miserére mei: * quia únicus et pauper sum ego.',
+              id: '2',
+              la: 'Corrúpti sunt, et abominábiles facti sunt in iniquitátibus: * non est qui fáciat bonum.',
               en: '',
             },
             {
               desc: '',
-              id: '17',
-              la: 'Tribulatiónes cordis mei multiplicátæ sunt: * de necessitátibus meis érue me.',
+              id: '3',
+              la: 'Deus de cælo prospéxit super fílios hóminum: * ut vídeat si est intéllegens, aut requírens Deum.',
               en: '',
             },
             {
               desc: '',
-              id: '18',
-              la: 'Vide humilitátem meam, et labórem meum: * et dimítte univérsa delícta mea.',
+              id: '4',
+              la: 'Omnes declinavérunt, simul inútiles facti sunt: * non est qui fáciat bonum, non est usque ad unum.',
               en: '',
             },
             {
               desc: '',
-              id: '19',
-              la: 'Réspice inimícos meos quóniam multiplicáti sunt, * et ódio iníquo odérunt me.',
+              id: '5',
+              la: 'Nonne scient omnes qui operántur iniquitátem, * qui dévorant plebem meam ut cibum panis?',
               en: '',
             },
             {
               desc: '',
-              id: '20',
-              la: 'Custódi ánimam meam, et érue me: * non erubéscam quóniam sperávi in te.',
+              id: '6',
+              la: 'Deum non invocavérunt: * illic trepidavérunt timóre, ubi non erat timor.',
               en: '',
             },
             {
               desc: '',
-              id: '21',
-              la: 'Innocéntes et recti adhæsérunt mihi: * quia sustínui te.',
+              id: '6-2',
+              la: 'Quóniam Deus dissipávit ossa eórum qui homínibus placent: * confúsi sunt, quóniam Deus sprevit eos.',
               en: '',
             },
             {
               desc: '',
-              id: '22',
-              la: 'Líbera, Deus, Israël, * ex ómnibus tribulatiónibus suis',
+              id: '7',
+              la: 'Quis dabit ex Sion salutáre Israël? * cum convérterit Deus captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël.',
               en: '',
             },
             
