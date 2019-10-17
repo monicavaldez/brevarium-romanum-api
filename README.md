@@ -1,9 +1,8 @@
 # 1954 Breviarium Romanum API
 
-Reformed by order of the Holy Ecumenical Council of Trent. Published by order of Pope St. Pius V and revised by Clement VIII, Urban VIII, and Leo XIII
+Reformed by order of the Holy Ecumenical Council of Trent. Published by order of Pope St. Pius V and revised by Clement VIII, Urban VIII, and Leo XIII.
 
-
-Includes the Ordo Insularum Philippinarum.
+Includes the Ordo Insularum Philippinarum (Ordo for the Philippine Islands).
 
 
 Imprenta de la
