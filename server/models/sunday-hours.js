@@ -8,11 +8,7 @@ module.exports = function(Hour) {
         avemaria: 'Ave María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui Jesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.',
         deusAdjutorium: {
           versicle: 'Deus ✠ in adjutórium meum inténde.',
-          response: 'Dómine, ad adjuvándum me festína',
-        },
-        gloriaPatri: {
-          versicle: 'Glória Patri, et Fílio, * et Spirítui Sancto.',
-          response: 'Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.',
+          response: 'Dómine, ad adjuvándum me festína. Glória Patri, et Fílio, * et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.',
         },
         alleluia: 'Alleluia',
       },
