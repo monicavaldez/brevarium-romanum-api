@@ -20,7 +20,7 @@ module.exports = function(Hour) {
             {
               desc: '',
               id: '1',
-              la: 'Beátus vir, qui non ábiit in consílio impiórum, † et in via peccatórum non stetit, * et in cáthedra pestiléntiæ non sedit:',
+              la: 'Beátus vir, † qui non ábiit in consílio impiórum, † et in via peccatórum non stetit, * et in cáthedra pestiléntiæ non sedit:',
               en: '',
             },
             {
